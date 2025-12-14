@@ -1,4 +1,4 @@
-# GitGrade Pro 🚀  
+# GitGrade 🚀  
 AI-Powered GitHub Repository Evaluator
 
 ## Overview
